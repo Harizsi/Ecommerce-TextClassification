@@ -9,3 +9,11 @@
 ## Model Reports
 
 <img width="1155" alt="Screenshot 2024-11-08 at 3 09 09 PM" src="https://github.com/user-attachments/assets/151ae8f4-8701-4f6e-9a48-479eca2d9a5b">
+
+## Acknowledgments
+
+This project utilizes the following open-source dataset:
+
+* **Ecommerce Text Classification** by SAURABH SHAHANE: https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
+
+Please refer to the respective repositories for more information and details.
