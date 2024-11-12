@@ -1,4 +1,4 @@
-# Ecommerce
+# Ecommerce-Text Classification
 
 ## Description
 Text documents are like treasure troves of information for businesses. 
