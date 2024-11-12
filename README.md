@@ -1,3 +1,16 @@
+# Ecommerce
+
+## Description
+Text documents are like treasure troves of information for businesses. 
+They can reveal important trends and influence investment decisions. 
+Companies often hire analysts to monitor online marketplaces for these insights. 
+However, manually sorting products into categories like "Electronics," 
+"Household," "Books," and "Clothing & Accessories" is time-consuming and 
+inefficient. 
+
+  To automate this process, you'll create a machine learning 
+model to accurately categorize new products.
+
 ## Model Architecture
 
 ![Ecommerce_model_architecture](https://github.com/user-attachments/assets/74665ec4-f740-491c-9633-f5fb007361b9)
@@ -10,7 +23,7 @@
 
 <img width="1155" alt="Screenshot 2024-11-08 at 3 09 09 PM" src="https://github.com/user-attachments/assets/151ae8f4-8701-4f6e-9a48-479eca2d9a5b">
 
-## Acknowledgments
+## Data Source
 
 This project utilizes the following open-source dataset:
 
